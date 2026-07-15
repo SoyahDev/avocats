@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a1120"/>
+      <stop offset="1" stop-color="#1c2740"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="80" cy="90" r="7" fill="#c9a96a"/>
+  <text x="104" y="98" fill="#c9a96a" font-family="Georgia, serif" font-size="24" letter-spacing="8" text-transform="uppercase">CABINET D'AVOCATS · PARIS</text>
+  <text x="80" y="360" fill="#f7f5f0" font-family="Georgia, serif" font-size="88">Maison Delacroix</text>
+  <text x="80" y="420" fill="#c9a96a" font-family="Georgia, serif" font-size="34" font-style="italic">L'exigence du droit, l'élégance du conseil.</text>
+  <line x1="80" y1="520" x2="1120" y2="520" stroke="#c9a96a" stroke-opacity="0.3"/>
+  <text x="80" y="565" fill="#f7f5f0" fill-opacity="0.5" font-family="Georgia, serif" font-size="22">Paris, France</text>
+  <text x="1120" y="565" fill="#f7f5f0" fill-opacity="0.5" font-family="Georgia, serif" font-size="22" text-anchor="end">maison-delacroix.com</text>
+</svg>
